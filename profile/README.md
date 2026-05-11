@@ -30,4 +30,4 @@ Visit us at [assistivetech.dev](https://assistivetech.dev)
 
 ---
 
-© 2024 Assistive Technology Development, Inc. All rights reserved.
+© Assistive Technology Development, Inc. All rights reserved.
